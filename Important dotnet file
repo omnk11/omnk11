@@ -1,0 +1,20 @@
+>>need to learn and write code about extension method
+>>need to check parameter binding 
+>>need to check how JWT token works both encryption and decryption
+>>need to understand diffrence between web API http methos and uses 
+>>what is anonymous function or method 
+>>dependamcy lifetime and where we use give examples 
+>>factory pattern and how to achive , singleton pattern 
+>>LINQ how we can write 
+>>best practices to write store procedures 
+>>Async and Await uses with program 
+>>events and delegates 
+>>how to create custom middleware and what http context and delegates represents here
+>>app.Map , App.Use , App.Run
+>>why we use abscract class what is the main purpose
+>>Dictonary VS hash table
+>>diffrence between Table variable and temp table 
+>>tuple
+>>Inversion Control
+>>design Pattern , Repository Pattern, Singleton pattern-for global object , Factory Pattern , Unit of Work
+>>Oauth Or Open ID.
